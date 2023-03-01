@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Frontend,Data Science**
 
-- 💬 Ask me about **PYTHON,PARSING,SQLITE,POSTGRESQL,TELEBOT,WEBHOOKS,DJANGO,DJANGO REST FRAMEWORK,CELERY,RABBITMQ,HTML,CSS,BOOTSTRAP**
+- 💬 Ask me about **PYTHON, PARSING, SQLITE, POSTGRESQL, TELEGRAM BOT, WEBHOOK, DJANGO, DJANGO REST FRAMEWORK, CELERY, RABBITMQ, GIT, HTML,CSS, BOOTSTRAP**
 
 - 📫 How to reach me **komilovhusen73@gmail.com**
 
